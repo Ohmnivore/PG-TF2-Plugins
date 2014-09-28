@@ -1,4 +1,4 @@
-# [Forum page:](http://www.prestige-gaming.org/showthread.php?t=27833)
+# Project home: [Forum page](http://www.prestige-gaming.org/showthread.php?t=27833)
 
 ## All compiled plugins can be found in the /bin directory
 
